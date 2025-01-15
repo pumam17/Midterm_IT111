@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head> 
+<head>
+<h1>Database in Microsoft SQL Server</h1> 
 </head>
 <body>
-<h6>Database in Microsoft SQL Server</h6> 
 <p>Database for a hospital with Selects, updates, and deletes.</p>
 </body>
 </html>
