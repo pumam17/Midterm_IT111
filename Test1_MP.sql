@@ -231,30 +231,3 @@ WHERE
 and TP.intPatientID		= TA.intPatientID
 Order By TP.strLastName, TP.strFirstName
 
--- --------------------------------------------------------------------------------
---	Step #5 : UPDATE Data
--- --------------------------------------------------------------------------------
-SELECT TP.*
-FROM   TPatients	as TP
-
-UPDATE TPatients
-SET  strEmergencyContactFirstName = 'Bob'
-	,strEmergencyContactLastName = 'Nields'
-WHERE intPatientID = 1
-
-SELECT TP.*
-FROM   TPatients	as TP
-
--- --------------------------------------------------------------------------------
---	Step #5 : DELETE  Data 
--- --------------------------------------------------------------------------------
-SELECT TP.* , TA.*
-FROM     TPatients	as TP
-		,TAppointments as TA
-
-DELETE FROM TAppointments 
-WHERE  dtmAppointmentDate = '10/20/2024'
-
-SELECT TP.* , TA.*
-FROM     TPatients	as TP
-		,TAppointments as TA
