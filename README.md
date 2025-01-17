@@ -5,6 +5,7 @@
 </head>
 <body>
 <p>Database for a hospital.</p>
+<p>***IN ORDER TO EXACUTE QUERY'S YOU WILL NEED MICROSOFT SQL SERVER***</p>
 <img src="/images/imgPatients.jpg" alt="image of the patient's table" title="imgPatients.jpg">
 <img src="/images/imgDoctors.jpg" alt="image of the doctor's table" title="imgDoctors.jpg">
 <img src="/images/imgNurses.jpg" alt="image of the nurse's table" title="imgNurses.jpg">
