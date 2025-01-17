@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>HOW TO CREATE A DATABASE IN MICROSOFT SQL SERVER.md</h1>
+<h1>HOW TO CREATE A DATABASE & QUERY IN MICROSOFT SQL SERVER.md</h1>
 </head>
 <body>
 <p>1.Click on Test1_MP.sql</p>
