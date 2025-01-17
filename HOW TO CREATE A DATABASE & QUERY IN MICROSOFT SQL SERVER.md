@@ -18,9 +18,9 @@
 <img src="/images/imgIT1115.jpg" alt="left click databases right click New Database" title="New Database">
 <p>7.Paste the database name into the Database Name: box and then click OK.</p>
 <img src="/images/imgIT1116.jpg" alt="" title="">
-<p>.Click Execute.</p>
+<p>8.Click Execute.</p>
 <img src="/images/imgIT1117.jpg" alt="click Execute" title="click execute">
-<p>Open Microsoft SQL Server and click New Query then Execute to create and run a new query.</p>
+<p>9.Open Microsoft SQL Server and click New Query then Execute to create and run a new query.</p>
 <img src="/images/imgIT1118.jpg" alt="click New Query then Execute" title="New Query -> Execute">
 </body>
 </html>
