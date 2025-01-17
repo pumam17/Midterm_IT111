@@ -4,7 +4,7 @@
 <h1>Database in Microsoft SQL Server</h1> 
 </head>
 <body>
-<p>Database for a hospital.</p>
+<p>Database for a hospital</p>
 <h3>***IN ORDER TO EXECUTE QUERY'S YOU WILL NEED MICROSOFT SQL SERVER***</h3>
 <img src="/images/imgPatients.jpg" alt="image of the patient's table" title="imgPatients.jpg">
 <img src="/images/imgDoctors.jpg" alt="image of the doctor's table" title="imgDoctors.jpg">
